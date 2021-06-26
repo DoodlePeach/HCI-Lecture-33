@@ -1,0 +1,2 @@
+rootProject.name = "HCI-Lecture-33"
+include ':app'

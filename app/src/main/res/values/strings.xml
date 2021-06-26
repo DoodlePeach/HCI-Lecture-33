@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HCI-Lecture-33</string>
+    <string name="successful_auth">You have successfuly signed up and logged in!</string>
+</resources>
